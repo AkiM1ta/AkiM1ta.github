@@ -1,2 +1,2 @@
-# AkiM1ta.github.io
-MyBlog
+# AkiM1ta
+Welcome!
